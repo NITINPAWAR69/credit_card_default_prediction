@@ -1,7 +1,7 @@
 # credit_card_default_prediction
 ## description
 
-###This project is aimed at predicting the case of customers default payments in Taiwan. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. We can use the K-S chart to evaluate which customers will default on their credit card payments¶
+### This project is aimed at predicting the case of customers default payments in Taiwan. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. We can use the K-S chart to evaluate which customers will default on their credit card payments¶
 
 Breakdown of Our Features:
 
@@ -69,11 +69,17 @@ The following steps are involved in the project
 
 
 **Exploratory Data Analysis**
+
 **Handling missing values**
-**Feature selection
+
+**Feature selection**
+
 **Train test split**
+
 **Handling Imbalance dataset**
+
 **Models**
+
   1) Logistic Regression
   2) Random Forest Classifiers
   3) Decision Tree Classifiers
